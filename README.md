@@ -11,7 +11,7 @@ This is a x86 assembly language program to check the status of the keyboard ligh
 3. If only NumLock light is on: Enter 2 natural numbers with value up to 32 767;  calculate sum, difference, product, quotient and display the result.
 4. If both CapsLock and NumLock lights are off: Display the corresponding greeting message (Good morning/afternoon/evening).
 ## II.How to run the program
-1. First you need to download [DOSBox](https://www.dosbox.com/download.php?main=1) and [TASM](https://www.pconlife.com/viewfileinfo/tasm-1-4-windows-7-windows-8-64-bit-techapple-net-exe/) (or if you are still having trouble, check thís [tutorial video](https://www.youtube.com/watch?v=JH-OCVkj3EY)). 
+1. First you need to download [DOSBox](https://www.dosbox.com/download.php?main=1) and [TASM](https://www.pconlife.com/viewfileinfo/tasm-1-4-windows-7-windows-8-64-bit-techapple-net-exe/) (or if you are still having trouble, check this [tutorial video](https://www.youtube.com/watch?v=JH-OCVkj3EY)). 
 2. After install TASM, open folder *TASM* and move source code file *Final.asm* into it.
 3. Open short cut *Tasm AutoMount Manual Edit-Tlink-TD* in folder *TASM 1.4*
 4. Type the following DOSBox commands:
