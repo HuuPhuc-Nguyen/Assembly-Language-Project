@@ -8,16 +8,16 @@ Class: 20_5 - HCMUS.
 This is a x86 assembly language program to check the status of the keyboard lights and performs the following functions:
 1. If both CapsLock and NumLock lights are on: Display the machine's time on the screen.
 2. If only CapsLock light is on: Enter a string of up to 80 characters, change all lowercase characters in that string to uppercase and display the resulting string to the screen.
-3. If only NumLock light is on: Enter 2 natural numbers with value up to 32 767;  calculate sum, difference, product, quotient and display the result.
+3. If only NumLock light is on: Enter 2 natural numbers;  calculate sum, difference, product, quotient and display the result.
 4. If both CapsLock and NumLock lights are off: Display the corresponding greeting message (Good morning/afternoon/evening).
 ## II.How to run the program
 1. First you need to download [DOSBox](https://www.dosbox.com/download.php?main=1) and [TASM](https://www.pconlife.com/viewfileinfo/tasm-1-4-windows-7-windows-8-64-bit-techapple-net-exe/) (or if you are still having trouble, check this [tutorial video](https://www.youtube.com/watch?v=JH-OCVkj3EY)). 
 2. After install TASM, open folder *TASM* and move source code file *Final.asm* into it.
 3. Open short cut *Tasm AutoMount Manual Edit-Tlink-TD* in folder *TASM 1.4*
 4. Type the following DOSBox commands:
-    - tasm final
-    - tlink final
-    - final.exe
+    - Tasm final
+    - Tlink final
+    - Final.exe
 5. Notice: if your laptop keyboard does not have ScrollLock, you can use *On-Screen Keyboard* app that is always available in windows operating system.
 ## III. Special knowledge
 > **Get system time:** 
