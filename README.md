@@ -2,8 +2,8 @@
 Semester 2 - 21_22 - Mr.Thai Hung Van.\
 Class: 20_5 - HCMUS.
 # MEMBERS
-1. Nguyen Huu Phuc
-2. Hoang Thu Thuy
+1. Nguyen Huu Phuc - 20120161
+2. Hoang Thu Thuy  - 20120382
 ## I. Project description
 This is a x86 assembly language program to check the status of the keyboard lights and performs the following functions:
 1. If both CapsLock and NumLock lights are on: Display the machine's time on the screen.
